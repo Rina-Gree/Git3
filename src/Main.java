@@ -6,3 +6,5 @@ public class Main {
 //4444
 //ttt
 //0000
+
+//999999
