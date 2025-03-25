@@ -3,14 +3,4 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
-//4444
-//ttt
-//0000
-
-//999999
-
-//1 commit//2 com
-//commit 3
-//44444
-//55555
-//999
+//new commit 25/03/25
